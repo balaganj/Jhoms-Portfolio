@@ -1,1 +1,1 @@
-I built a portfolio website so I can put the projects on the near future.
+I created a portfolio website so that's where I'll put the projects in here.
